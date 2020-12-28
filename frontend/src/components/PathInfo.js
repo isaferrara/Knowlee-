@@ -47,9 +47,9 @@ export const PathInfo = (props) => {
 
             <h2 style={{textDecoration:'underline'}}>{pathsy.title}</h2>
         <div style={{textAlign:'left', margingRight:'200px', width:'600px', wordWrap: 'break-word'}}> 
-            <p style={{lineHeight:'10px', margin:'0'}}><b>About</b></p> <p style={{fontWeight:'lighter', marginBottom:'20px'}}><br/>{pathsy.description}</p>
-            <p style={{lineHeight:'7px', fontSize:'15px'}}> <b>Category:</b>{'   '}{pathsy.category}</p>
-            <p style={{lineHeight:'7px', fontSize:'15px'}}> <b>Level: </b>{'   '}{pathsy.level}</p>
+            <p style={{lineHeight:'10px', margin:'0', color:'gray'}}><b>About</b></p> <p style={{fontWeight:'lighter', marginBottom:'20px'}}><br/>{pathsy.description}</p>
+            <p style={{lineHeight:'15px', fontSize:'15px', color:'gray'}}> <b>Category:</b>{'   '}{pathsy.category}</p>
+            <p style={{lineHeight:'15px', fontSize:'15px', color:'gray'}}> <b>Level: </b>{'   '}{pathsy.level}</p>
             <small> Created by {pathsy.users[0].username}</small>
         </div> 
 
