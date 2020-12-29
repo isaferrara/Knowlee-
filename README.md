@@ -27,7 +27,8 @@ Version control: Git/ Github
 
 
 <br/>
-If you want to try out the app, you can use 
+If you want to try out the app, you can use:
+<br/>
 <b>Username</b>: Daniel
 <b>password</b>: 123
 
