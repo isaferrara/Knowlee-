@@ -24,3 +24,10 @@ Front-end technologies: HTML, CSS, Java Script (ES6), React
 Back end technologies: MongoDb, Axios
 <br/>
 Version control: Git/ Github
+
+
+<br/>
+If you want to try out the app, you can use 
+<b>Username</b>: Daniel
+<b>password</b>: 123
+
