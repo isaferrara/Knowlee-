@@ -30,5 +30,6 @@ Version control: Git/ Github
 If you want to try out the app, you can use:
 <br/>
 <b>Username</b>: Daniel
+<br/>
 <b>password</b>: 123
 
